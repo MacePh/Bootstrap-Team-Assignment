@@ -2,3 +2,15 @@ html, body {
   height: 100%;
   width: 100%;
 }
+p {
+  font-size 70px;
+  display: inline;
+}
+h1 {
+  color: red;
+}
+
+.w3-card-4 {
+  display: grid;
+  
+}
