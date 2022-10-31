@@ -1,7 +1,9 @@
 body {
 	background-color: #A2DED0;
 }
-
+.shapes {
+  background-image:url(Background.png);
+}
 
 .jumbotron {
 	background-image:url('https://www.techtalentsouth.com/hs-fs/hubfs/1-Aug-20-2020-02-05-13-60-PM.png?width=960&height=640&name=1-Aug-20-2020-02-05-13-60-PM.png'); 
