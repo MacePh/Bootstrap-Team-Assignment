@@ -1,51 +1,39 @@
+* {box-sizing: border-box;}
 body {
 	background-color: #A2DED0;
 }
 .shapes {
-  background-image:url(Background.png);
+  background-image:url(Background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
 }
 
 .jumbotron {
-	background-image:url('https://www.techtalentsouth.com/hs-fs/hubfs/1-Aug-20-2020-02-05-13-60-PM.png?width=960&height=640&name=1-Aug-20-2020-02-05-13-60-PM.png'); 
-	padding: 20%;
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 100%;
-	margin-top: -40px;
-	background-attachment: fixed;
-	background-position:  center -238px;
+  color: white;
+  background-color: #0c63ff;
+}
+.container2 {
+  image: url(Lowes\ Tech\ Talent\ Activation\ Program.jpg)
+  display: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+	
 	
 
 }
 
-.jumbotron h1 {
-	position: absolute;
-	top:18;
-	left:0;
-	padding-left: 20px;
-	color: #F7FAFE;
-    color: orange;
-}
 
-.mission {
-	background-color: #323232;
-	color: #F7FAFE;
-	margin-top: -30px;
+
+
 	
 }
 
-.mission h3 {
-	font-family:'Raleway' 'sans-serif';
-	padding: 5% 10% ;
-	text-align: center;
-	position: center;
 
-}
 
-.order-button {
-  margin: auto;
-  width: 25%;
-  padding: 10px;
+
 }
 
 
