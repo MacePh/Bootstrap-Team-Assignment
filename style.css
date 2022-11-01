@@ -5,14 +5,18 @@ body {
 .shapes {
   background-image:url(Background.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
+  /* background-repeat: no-repeat;
+  background-attachment: scroll; */
   background-position: center;
 }
 
 .jumbotron {
   color: white;
   background-color: #0c63ff;
+}
+
+.container {
+color: black;
 }
 .container2 {
   image: url(Lowes\ Tech\ Talent\ Activation\ Program.jpg)
